@@ -1,6 +1,7 @@
 # Guidelines to Collaborate:
 
 Don't contribute unless you are collabtor on this repo.☺☺☺
+```
 This repo, code and idea is sole proprietary of Akash Yadav, Shreyas Kasliwal and, Sudeep Gangwar. 
 
 # How to Collaborate:
