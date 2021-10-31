@@ -10,7 +10,7 @@ This repo, code and idea is sole proprietary of Akash Yadav, Shreyas Kasliwal an
 
 2. Clone the repository to your local machine
 ```
-$ git clone "url"
+$ git clone "https://github.com/{Username}/HackOverflow.git"
 ```
 where username is your GitHub account username.
 
@@ -41,7 +41,7 @@ $ git push -u origin branchname
 
 1. Create upstream as our repository
 ```
-$ git remote add upstream "url"
+$ git remote add upstream "https://github.com/kasliwalshreyas/HackOverflow.git"
 ```
 
 2. Fetch upstream changes in local machine
